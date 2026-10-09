@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AgroRiego</string>
+    <string name="title_home">Mis Parcelas y Turnos</string>
+    <string name="title_register">Registrar Riego</string>
+    <string name="title_settings">Configuración</string>
+
+    <!-- Formulario de Riego -->
+    <string name="label_parcel_name">Nombre de la Parcela</string>
+    <string name="label_area">Superficie (Hectáreas)</string>
+    <string name="label_crop_type">Tipo de Cultivo</string>
+    <string name="crop_corn">Maíz</string>
+    <string name="crop_sorghum">Sorgo</string>
+    <string name="crop_vegetables">Hortalizas</string>
+
+    <string name="label_time_picker">Hora de inicio de riego</string>
+    <string name="btn_select_time">Seleccionar Hora</string>
+    <string name="btn_save">Guardar Programación</string>
+
+    <!-- Configuración y Alerta -->
+    <string name="label_enable_alerts">Activar alertas meteorológicas</string>
+    <string name="label_enable_reminders">Recordatorio previo al turno</string>
+    <string name="status_pending">Pendiente</string>
+    <string name="status_approved">Aprobado</string>
+</resources>

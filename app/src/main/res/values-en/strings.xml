@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AgroRiego</string>
+    <string name="title_home">My Plots and Irrigation</string>
+    <string name="title_register">Schedule Irrigation</string>
+    <string name="title_settings">Settings</string>
+
+    <!-- Form -->
+    <string name="label_parcel_name">Plot Name</string>
+    <string name="label_area">Area (Hectares)</string>
+    <string name="label_crop_type">Crop Type</string>
+    <string name="crop_corn">Corn</string>
+    <string name="crop_sorghum">Sorghum</string>
+    <string name="crop_vegetables">Vegetables</string>
+
+    <string name="label_time_picker">Irrigation start time</string>
+    <string name="btn_select_time">Select Time</string>
+    <string name="btn_save">Save Schedule</string>
+
+    <!-- Settings & Alerts -->
+    <string name="label_enable_alerts">Enable weather alerts</string>
+    <string name="label_enable_reminders">Reminder before shift</string>
+    <string name="status_pending">Pending</string>
+    <string name="status_approved">Approved</string>
+</resources>
